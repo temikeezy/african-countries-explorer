@@ -1,8 +1,32 @@
-# Welcome to your Lovable project
+# African Countries Explorer
+
+A mobile-friendly React app that explores African countries with motivational advice.
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/5eacd608-02c1-4b56-81b8-038baa9ba338
+
+## About this project
+
+The African Countries Explorer is a modern, responsive web application that allows users to discover and learn about African countries. Built during the "Ilorin DevBox: Building APIs & Microservices (Introduction & Fundamentals)" workshop on September 18, 2025 at Ilorin Innovation Hub.
+
+### Features
+
+- **Country Explorer**: Browse through all African countries in a beautiful grid layout
+- **Search & Filter**: Find countries by name or capital city
+- **Detailed Information**: View comprehensive details including flag, capital, population, languages, and Google Maps integration
+- **Motivational Advice**: Get inspired with random advice tips powered by the Advice API
+- **Mobile-First Design**: Fully responsive design optimized for both mobile and desktop
+- **Modern UI**: Clean, card-based interface with hover effects and smooth animations
+
+### APIs Used
+
+- **REST Countries API**: `https://restcountries.com/v3.1/region/Africa` - Provides comprehensive data about African countries including names, capitals, populations, flags, languages, and maps
+- **Advice Slip API**: `https://api.adviceslip.com/advice` - Delivers random motivational advice to inspire users
+
+### Event Information
+
+This project was designed and built during **Ilorin DevBox: Building APIs & Microservices (Introduction & Fundamentals)** workshop held on September 18, 2025 at Ilorin Innovation Hub. The workshop focused on teaching participants how to integrate external APIs and build microservices architectures.
 
 ## How can I edit this code?
 
